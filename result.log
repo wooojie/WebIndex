@@ -1,0 +1,291 @@
+////////////////////////	START HERE	////////////////////////
+
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2001 02:31:35 GMT
+Server: Apache/1.3.6 (Unix)
+Last-Modified: Thu, 25 Jan 2001 20:21:25 GMT
+ETag: "481f4-10c0-3a708ac5"
+Accept-Ranges: bytes
+Content-Length: 4288
+Connection: close
+Content-Type: text/html
+
+<html>
+
+<head>
+<meta name="generator" content="GoLive CyberStudio 3">
+<title>Oklahoma Christian University</title>
+<script language="JavaScript"><!--
+function flipImage(url, names)
+
+                        {
+
+                        if(navigator.appVersion.lastIndexOf("MSIE 3.0") == -1) document[names].src = url;
+
+                        }
+// -->
+</script>
+</head>
+
+<body background="images/background2.gif" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="white" link="#333366" alink="#333366" vlink="#666699">
+<table border="0" cellpadding="0" cellspacing="0" width="1100" height="1800">
+<tr valign="top" height="29" bgcolor="#666699">
+<td width="36" height="29"><img src="images/nav_spacer.gif" width="36" height="29"></td>
+<td width="1064" height="29"><img src="images/nav_cap.gif" width="271" height="29"></td>
+</tr>
+<tr valign="top" height="49">
+<td width="36" height="49"></td>
+<td width="1064" height="49"><a href="prospective.html" onmouseover="flipImage('images/nav_prospectb.gif', 'prospective')" onmouseout="flipImage('images/nav_prospect.gif', 'prospective')"><img height="49" width="60" src="images/nav_prospect.gif" name="prospective" border="0"></a><a href="alumni.html" onmouseover="flipImage('images/nav_alumnib.gif', 'alumni')" onmouseout="flipImage('images/nav_alumni.gif', 'alumni')"><img height="49" width="48" src="images/nav_alumni.gif" name="alumni" border="0"></a><a href="intranet.html" onmouseover="flipImage('images/nav_intranetb.gif', 'intranet')" onmouseout="flipImage('images/nav_intranet.gif', 'intranet')"><img height="49" width="56" src="images/nav_intranet.gif" name="intranet" border="0"></a><a href="siteindex.html" onmouseover="flipImage('images/nav_indexb.gif', 'index')" onmouseout="flipImage('images/nav_index.gif', 'index')"><img height="49" width="48" src="images/nav_index.gif" name="index" border="0"></a><a href="contactus.html" onmouseover="flipImage('images/nav_contactb.gif', 'contact')" onmouseout="flipImage('images/nav_contact.gif', 'contact')"><img height="49" width="59" src="images/nav_contact.gif" name="contact" border="0"></a></td>
+</tr>
+<tr valign="top" height="12" bgcolor="white">
+<td width="36" height="12"><img src="images/nav_spacer2.gif" width="36" height="12"></td>
+<td width="1064" height="12"><img src="images/nav_spacer2.gif" width="36" height="12"></td>
+</tr>
+<tr height="1710" valign="top" bgcolor="white">
+<td height="1710" colspan="2"><table border="0" cellpadding="0" cellspacing="0" width="616" height="1650">
+<tr valign="top" height="21">
+<td width="12" height="21"></td>
+<td width="105" height="21"></td>
+<td width="14" height="21"><img src="images/nav_hairline.gif" width="14" height="21"></td>
+<td width="485" height="21"></td>
+</tr>
+<tr valign="top" height="35">
+<td width="12" height="35"><img src="images/nav_whtspacer.gif" width="12" height="35"></td>
+<td width="105" height="35"><img src="images/nav_home.gif" width="105" height="35" border="0" usemap="#nav_homeB47A9FB3"><map name="nav_homeB47A9FB3"><area coords="44,6,81,18" shape="rect" href="index.html"></map></td>
+<td height="35" colspan="2"><img src="images/hd_contactus.gif" width="498" height="35"></td>
+</tr>
+<tr valign="top" height="1594">
+<td width="12" height="1594"></td>
+<td width="105" height="1594" bgcolor="silver"><img src="images/nav_spacer3.gif" width="105" height="18"><a href="contactus.html"><img src="images/nav_return.gif" border="0" width="105" height="18"></a></td>
+<td width="14" height="1594"><img src="images/nav_hairline.gif" width="14" height="1594"></td>
+<td width="485" height="1594">
+<dl>
+<dt><font face="Arial" size="2"><img src="images/hd_directorypres.gif" width="196" height="30"><br>
+<img src="images/pic_bullet.gif" width="16" height="12"><a href=mailto:kevin.jacobs@oc.edu><b>Kevin E. Jacobs, </b></a>B.S., J.D., President<br>
+<img src="images/pic_bullet.gif" width="16" height="12"><a href=mailto:jane.neece@oc.edu><b>Jane Neece </b></a>, Executive Assistant<br>
+
+
+<img src="images/pic_bullet.gif" width="16" height="12"><a href=mailto:maryann.sipes@oc.edu><b>Mary Ann Sipes</a></b>, Executive Assistant<br>
+<br>
+<a href="contactus.html"><b>Return to Index<br>
+</b></a><br>
+<br>
+<br>
+</font>
+</dl>
+</td>
+</tr>
+</table><br>
+<br>
+<br>
+</td>
+</tr>
+</table><br>
+<br>
+<br>
+</body>
+
+</html>
+93.4)ÓHTTP/1.1 200 OK
+Server: Microsoft-IIS/4.0
+Date: Thu, 01 Feb 2001 02:31:35 GMT
+Content-Type: text/html
+Accept-Ranges: bytes
+Last-Modified: Mon, 24 Jan 2000 18:10:20 GMT
+ETag: "b4329c469666bf1:5670"
+Content-Length: 9727
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Commerce West, College of Commerce and Business
+Administration (#159)</title>
+
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%" bgcolor="#9FBAD7">
+    <tr>
+        <td width="20%"><font color="#000000" size="5" face="Arial">Commerce West, College of Commerce and
+        Business Administration</font></td>
+    </tr>
+</table>
+<div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0"><a href="159text.html"><font size="2" face="Arial"><strong>Textual
+        Map for Commerce West</strong></font></a></td>
+        <td colspan="3" width="80%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0"><div align="left"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td valign="top" width="25%">&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%"><font size="2" face="Arial">1206 S. 6th Street</font></td>
+            </tr>
+        </table>
+        </div><div align="left"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td valign="top" width="25%"><font size="2" face="Arial">Champaign, IL 61820</font></td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%">&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%"><font size="2" face="Arial">O&amp;M Building #159</font></td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%">&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%"><font size="2" face="Arial">Located on the east side of 6th
+                Street between Gregory and Loredo Taft Drive</font></td>
+            </tr>
+            <tr>
+                <td valign="top" width="25%">&nbsp;</td>
+            </tr>
+            <tr>
+                <td valign="top"><font size="2" face="Arial">Solid
+                arrows show location of automatic doors.</font><p><font size="2" face="Arial">Outlined arrows show
+                location of accessible entries</font></p>
+                <p><font size="2" face="Arial">Click on the
+                circled building for floor plan information.</font></p>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><a href="wheelchair.top.html"><font face="Arial">ADA Accessibility Home Page</font></a><p><a href="http://www.uiuc.edu/navigation/maps/all_campus.html"><font face="Arial">Campus Locator Map</font></a></p>
+                </td>
+            </tr>
+        </table>
+        </div></td>
+        <td align="center" valign="top" colspan="3" width="80%"><p align="center"><!--webbot bot="ImageMap" rectangle=" (561,511) (647, 534)  339.html" rectangle=" (316,515) (386, 534)  160.html" polygon=" (552,170) (588,169) (587,356) (556,356) (555,280) (530,278) (531,251) (555,249) 54.html" polygon=" (363,326) (362,355) (528,354) (527,323) (462,324) (461,283) (430,283) (429,324) 50.html" polygon=" (293,176) (298,361) (339,359) (339,286) (376,285) (376,246) (335,247) (334,175) 159PLAN1.html" polygon=" (334,5) (336,60) (395,56) (395,107) (585,109) (586,3) 41.html" rectangle=" (351,153) (402, 212)  59.html" rectangle=" (124,0) (199, 57)  4.html" rectangle=" (2,2) (102, 101)  6.html" src="159site.gif" border="0" width="651" height="535" startspan --><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="561, 511, 647, 534" HREF="339.html"><AREA SHAPE="RECT" COORDS="316, 515, 386, 534" HREF="160.html"><AREA SHAPE="POLYGON" COORDS="552, 170, 588, 169, 587, 356, 556, 356, 555, 280, 530, 278, 531, 251, 555, 249" HREF="54.html"><AREA SHAPE="POLYGON" COORDS="363, 326, 362, 355, 528, 354, 527, 323, 462, 324, 461, 283, 430, 283, 429, 324" HREF="50.html"><AREA SHAPE="POLYGON" COORDS="293, 176, 298, 361, 339, 359, 339, 286, 376, 285, 376, 246, 335, 247, 334, 175" HREF="159PLAN1.html"><AREA SHAPE="POLYGON" COORDS="334, 5, 336, 60, 395, 56, 395, 107, 585, 109, 586, 3" HREF="41.html"><AREA SHAPE="RECT" COORDS="351, 153, 402, 212" HREF="59.html"><AREA SHAPE="RECT" COORDS="124, 0, 199, 57" HREF="4.html"><AREA SHAPE="RECT" COORDS="2, 2, 102, 101" HREF="6.html"></MAP><a href="../_vti_bin/shtml.exe/ada/159.html/map"><img ismap usemap="#FrontPageMap" border="0" height="535" src="159site.gif" width="651"></a><!--webbot bot="ImageMap" endspan i-checksum="35031" --></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="28%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td width="1%">&nbsp;</td>
+        <td width="26%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td valign="top" width="1%">&nbsp;</td>
+        <td valign="top" width="21%"><font face="Arial"><strong>Accessible
+        Entries:</strong></font></td>
+        <td width="58%"><font face="Arial">Automatic doors are
+        located on the east side of the building at the center
+        entrance. Caution: the ramp is slightly steeper than
+        1:12. A project is currently underway to create an
+        accessible entry at the center west entrance.</font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td colspan="2" width="22%">&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td valign="top" width="1%">&nbsp;</td>
+        <td valign="top" width="21%"><font face="Arial"><strong>Parking:</strong></font></td>
+        <td width="58%"><font face="Arial">Unrestricted metered
+        parking is available along 6th Street and Loredo Taft
+        Drive. There are 2 designated accessible spaces in Lot
+        E12 across 6th Street to the west.</font><p><font face="Arial">Contact The Division of Campus Parking and
+        Transportation at (217)333-3530 or FAX (217)244-6863.</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td bgcolor="#C0C0C0">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td valign="top" width="1%">&nbsp;</td>
+        <td valign="top" width="21%"><font face="Arial"><strong>Interior
+        Access Route:</strong></font></td>
+        <td width="58%"><font face="Arial">Enter through the east
+        entry, follow the series of ramps west to the main
+        corridor. Turn either north or south to reach an
+        elevator. The north elevator is approximately 135 feet up
+        the hall on the west wall. The south elevator is
+        approximately 90 feet down the hall on the west wall.</font></td>
+    </tr>
+    <tr>
+        <td bgcolor="#C0C0C0">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td width="1%">&nbsp;</td>
+        <td width="21%"><font face="Arial"><strong>Restrooms:</strong></font></td>
+        <td width="58%"><font face="Arial">The accessible
+        restroom for men is located in room 131 on the 1st floor.</font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td colspan="2" width="22%">&nbsp;</td>
+        <td width="58%"><font face="Arial">The accessible
+        restroom for women is located in room 167 on the 1st
+        floor.</font></td>
+    </tr>
+    <tr>
+        <td bgcolor="#C0C0C0">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td bgcolor="#C0C0C0">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><font face="Arial"><strong>Assistive Listening
+        System:</strong></font></td>
+        <td><font face="Arial">Lecture hall room 141 is provided
+        with an Assistive Listening System.</font></td>
+    </tr>
+    <tr>
+        <td bgcolor="#C0C0C0">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td valign="top" width="1%">&nbsp;</td>
+        <td valign="top" width="21%"><font face="Arial"><strong>Elevators:</strong></font></td>
+        <td width="58%"><font face="Arial">An elevator is needed
+        and provided to change floors in this building. <em>See
+        Interior Access Route.</em></font></td>
+    </tr>
+    <tr>
+        <td valign="top" width="20%" bgcolor="#C0C0C0">&nbsp;</td>
+        <td colspan="3" width="85%">&nbsp;</td>
+    </tr>
+</table>
+</div>
+
+<p align="center"><font size="2" face="Arial">Send all
+suggestions and/or comments to </font><a href="mailto:jfrancis@uiuc.edu"><font size="2" face="Arial">jfrancis@uiuc.edu</font></a><font size="2" face="Arial">.</font></p>
+
+<hr>
+
+<h6><a href="http://www.uiuc.edu"><font size="2" face="Arial">University
+of Illinois at Urbana-Champaign</font></a><font size="1" face="Arial"><br>
+This page was created by Jan Kamachi in the Office for Project
+Planning and Facility Management.<br>
+This page was last modified on: <!--webbot bot="Timestamp" s-type="EDITED" s-format="%A, %B %d, %Y" startspan -->Friday, September 10, 1999<!--webbot bot="Timestamp" endspan i-checksum="52908" --></font></h6>
+</body>
+</html>

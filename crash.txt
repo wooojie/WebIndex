@@ -1,0 +1,18 @@
+starting at 1:38am
+ crashed at 16 package
+
+starting at 1:49am , 10 package, 25mg
+ crashed at 16 package
+
+starting at 1:59am , 10 package, 25mg
+ crashed at 16 package
+
+1m9.626s 18 files crash
+
+4m2.396s 80 files crash 173_
+
+240 files 380m;360files 558mb;crashed 382 files, 9min, cannot allocate memory; write index at 80 files, 28.6MB
+320 files, 480mb;350 files, 529mb;real	7m0.714s,user	5m0.375s,sys	0m58.100s
+
+
+
